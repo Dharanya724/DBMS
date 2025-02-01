@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "appwrite": "^13.0.2"
+  }
+}
