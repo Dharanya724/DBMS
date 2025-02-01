@@ -1,1 +1,1 @@
-# dbms project For personal Finance managing software
+# dbms project for Personal Finance Managing software
